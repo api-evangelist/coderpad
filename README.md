@@ -64,5 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CoderPad is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://coderpad.io/
+CoderPad provides an AI‑ready technical assessment platform that enables companies to create, conduct, and evaluate coding interviews and screening tests. It supports real‑time collaborative coding, AI‑assisted candidate assistance, and integrates with hiring workflows. The service offers features such as interview templates, automated scoring, and detailed analytics to help technical hiring teams evaluate candidates efficiently and fairly across all stages of the hiring process.
+
+**Areas:** Company · AI · Hiring · TechnicalAssessment · InterviewPlatform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://coderpad.io/)
+- [Documentation](https://coderpad.io/resources/docs/)
+- [Getting started](https://coderpad.io/resources/docs/screen/recruiters-quickstart)
+- [Pricing](https://coderpad.io/pricing/)
+- [Support](https://coderpad.io/contact/support/)
+- [Changelog](https://coderpad.io/resources/docs/changelog/)
+- [Blog](https://coderpad.io/blog/)
+- [Security](https://coderpad.io/security/)
+- [Compliance](https://coderpad.io/security/)
+- [Terms of service](https://coderpad.io/tos/)
+- [Privacy policy](https://coderpad.io/privacy/)
+- [GitHub](https://github.com/CoderPad)
+- [Status](https://status.coderpad.io)
+
+**APIs profiled:** 11
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/coderpad/](https://apis.io/providers/coderpad/).
